@@ -165,3 +165,10 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run Jupyter Notebook
+
+## Dataset
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Please download the dataset from Kaggle (link:https://www.kaggle.com/datasets/absinthepapi/aviation) and place it in the project root directory before running the note
+

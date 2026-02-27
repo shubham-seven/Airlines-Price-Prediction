@@ -1,0 +1,15 @@
+# Ignore datasets
+*.csv
+*.zip
+data/
+
+# Ignore virtual environment
+airline_env/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
